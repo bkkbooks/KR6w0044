@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0044/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋淨土群疑論探要記
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D44/D44n8914.xml
+    old_id: D44n8914
+hash: sha256:9467adce2909e27a2f0c56dbf1b2cb35595ae301acb2ef1368d09255864488dd

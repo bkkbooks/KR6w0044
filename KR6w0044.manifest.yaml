@@ -1,0 +1,195 @@
+canonical_identifier: bkk:krp/KR6w0044/v1
+canonical_location: https://kanripo.org/bkk/KR6w0044/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋淨土群疑論探要記
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D44/D44n8914.xml
+    old_id: D44n8914
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0044_000.yaml, hash: 'sha256:9467adce2909e27a2f0c56dbf1b2cb35595ae301acb2ef1368d09255864488dd'}
+  - {seq: 1, filename: KR6w0044_001.yaml, hash: 'sha256:60b211dccd3004b68a62182ae307085f96a37a06002a9afbb7ad315104271bcf'}
+  - {seq: 2, filename: KR6w0044_002.yaml, hash: 'sha256:0d9eda84dbaf3fab833e9eba6c5b5928c122d11aac186f7b3959cae42b88b1e7'}
+  - {seq: 3, filename: KR6w0044_003.yaml, hash: 'sha256:a3b3c50f9ddf274dd6668ad0bad95ff7d2af890324e2cdc8074fb8184768228c'}
+  - {seq: 4, filename: KR6w0044_004.yaml, hash: 'sha256:24ed24366417909975207dfd1e9ca2e74a70d7fe9ba8653e7dee4cbaa2c37e69'}
+  - {seq: 5, filename: KR6w0044_005.yaml, hash: 'sha256:f670bd606d289c5fbc6942594b9498d345384bd609f308dcc6ad3a5f24819a60'}
+  - {seq: 6, filename: KR6w0044_006.yaml, hash: 'sha256:208206ef2815340b46e6b8c0cefada6f6fa0bbc38ae5e5fb7b4f86102ba88b19'}
+  - {seq: 7, filename: KR6w0044_007.yaml, hash: 'sha256:a8ef7f937fc54baa40bc7a2ea791f47052336021234cbc2c0424d1f4ae2e1e07'}
+  - {seq: 8, filename: KR6w0044_008.yaml, hash: 'sha256:89b57ed733363fba643ba800ddde94eb23305d816810b15a69ce3b57b471e4a9'}
+  - {seq: 9, filename: KR6w0044_009.yaml, hash: 'sha256:3946ee09f8526cff347c8724bd004802e2654ab35309f5498da8bf897ab6ce86'}
+  - {seq: 10, filename: KR6w0044_010.yaml, hash: 'sha256:f0bb3069e4d00ba4325e29a16cf6d0c8ae5de8a4e2aef10601734b9880d06ee2'}
+  - {seq: 11, filename: KR6w0044_011.yaml, hash: 'sha256:54eb1009258e438344456c0960c1ff420529f4f2647fdb8e66bb51da05872f2b'}
+  - {seq: 12, filename: KR6w0044_012.yaml, hash: 'sha256:f3f2bc28ced3e3bb3c581db2364343c8d77a04fda5a11f1224a669120c830d8b'}
+  - {seq: 13, filename: KR6w0044_013.yaml, hash: 'sha256:d7b3729c14f00a3dd1702bfa0d8e81bdd203ad5216f7648ca7b80cc968cf5633'}
+  - {seq: 14, filename: KR6w0044_014.yaml, hash: 'sha256:0cc595fb8c382bcb856c63d9716e9e29159a6201a0e5cbb35392b7dcb6704bd8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0044_001.markers.yaml, hash: 'sha256:0f21ce06f84ca0ffbd595d06a8854441ffe861535e84f37bed9b26ace574cce2'}
+  - {seq: 2, role: markers, filename: assets/KR6w0044_002.markers.yaml, hash: 'sha256:08be77e46970c0ff973da9fd03f26275d0a7ff3cd89606380ac5f4f18bc0c36f'}
+  - {seq: 3, role: markers, filename: assets/KR6w0044_003.markers.yaml, hash: 'sha256:83d7d74e7fbdc707537e32e2f2fa9603ea42f9038c2f2e29b231b8b32b57d633'}
+  - {seq: 4, role: markers, filename: assets/KR6w0044_004.markers.yaml, hash: 'sha256:0a1b34aa8c2d7f1ee5de25ad9e6cfbfb25a4b83fa2b443862e04f59e8825edb7'}
+  - {seq: 5, role: markers, filename: assets/KR6w0044_005.markers.yaml, hash: 'sha256:2202ce1a2d0faedce984c5b4bb4a32d9388435f576b025cccf196ce16fdde515'}
+  - {seq: 6, role: markers, filename: assets/KR6w0044_006.markers.yaml, hash: 'sha256:da0d863bd9469f2db68fc5f9f8a31f95b95d435f876fcb4ef20dd3aed82efda6'}
+  - {seq: 7, role: markers, filename: assets/KR6w0044_007.markers.yaml, hash: 'sha256:c120afde7b105e16dfb0f2c8db37bbba43da3cebf4a5be2fd86a764426e85fee'}
+  - {seq: 8, role: markers, filename: assets/KR6w0044_008.markers.yaml, hash: 'sha256:d42a35566852e21474cd47002b20e47b7541947e9d8d828ce67a77e723b047e9'}
+  - {seq: 9, role: markers, filename: assets/KR6w0044_009.markers.yaml, hash: 'sha256:064e045e8700ff486e17ba6f0558662a08a791b5ce2e19f5c5591082c21da868'}
+  - {seq: 10, role: markers, filename: assets/KR6w0044_010.markers.yaml, hash: 'sha256:a20ef8559246f11f222f5c7e65c2f532ddd5e47558e22a82f46103867c131b23'}
+  - {seq: 11, role: markers, filename: assets/KR6w0044_011.markers.yaml, hash: 'sha256:597d1417a60921b870db70415614d2a21a7f2291faa7fb043d2f03aaf1b06a6f'}
+  - {seq: 12, role: markers, filename: assets/KR6w0044_012.markers.yaml, hash: 'sha256:745658ed618e956812804da160b4fda57dfb4ec38caaf16294b3958889951814'}
+  - {seq: 13, role: markers, filename: assets/KR6w0044_013.markers.yaml, hash: 'sha256:9e66e29e7e04fbdc11034206f1c2845c41a60fdd9a2cd0d709c18f46e48feb68'}
+  - {seq: 14, role: markers, filename: assets/KR6w0044_014.markers.yaml, hash: 'sha256:6f8c1b4612a67ae3155f98974899df1d91842d2ecc3402800cec56fb5406f37a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0044_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 21083
+  label: 釋淨土群疑論探要記卷第一論本第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0044_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 22862
+  label: 釋淨土群疑論探要記卷第二論本第一之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0044_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 20327
+  label: 釋淨土群疑論探要記卷第三論本苐一之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0044_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 21517
+  label: 釋淨土群疑論探要記卷第四論本苐二
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0044_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 23807
+  label: 釋淨土群疑論探要記卷第五論本第二之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0044_D_006-juan-start
+    span:
+    - body
+    - 0
+    - 16992
+  label: 釋淨土群疑論探要記卷第六論本第三
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0044_D_007-juan-start
+    span:
+    - body
+    - 0
+    - 20569
+  label: 釋淨土群疑論探要記卷苐七論本苐三之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0044_D_008-juan-start
+    span:
+    - body
+    - 0
+    - 23943
+  label: 釋淨土群疑論探要記卷第八論本第四
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0044_D_009-juan-start
+    span:
+    - body
+    - 0
+    - 22603
+  label: 釋淨土群疑論探要記卷第九論本第四之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0044_D_010-juan-start
+    span:
+    - body
+    - 0
+    - 22173
+  label: 釋淨土群疑論探要記卷第十論本第五
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0044_D_011-juan-start
+    span:
+    - body
+    - 0
+    - 23359
+  label: 釋淨土群疑論探要記卷第十一論本第五之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6w0044_D_012-juan-start
+    span:
+    - body
+    - 0
+    - 14568
+  label: 釋淨土群疑論探要記卷第十二論本第六
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6w0044_D_013-juan-start
+    span:
+    - body
+    - 0
+    - 16496
+  label: 釋淨土群疑論探要記卷第十三論本第六之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6w0044_D_014-juan-start
+    span:
+    - body
+    - 0
+    - 26825
+  label: 釋淨土群疑論探要記卷第十四論本第七
+  type: juan
+  level: 1
+hash: sha256:281c2225551c99c15a9106a4eeb790aeea665fb6349bff92e148876bdb5a0e15
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
